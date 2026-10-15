@@ -38,6 +38,7 @@ plotly==7.0.0
 prompt_toolkit==3.0.53
 psutil==7.2.2
 pure_eval==0.2.3
+pyECLAT==1.0.2
 Pygments==2.21.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
